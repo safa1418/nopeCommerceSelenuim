@@ -1,0 +1,5 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"","5574","addItemTest","Suite","Sun Jul 28 22:58:14 CEST 2024","passed","Sun Jul 28 22:58:20 CEST 2024","nopcommerceTest.AddItemToCartTest","Test","nopcommerceTest.AddItemToCartTest","addItemTest"
+"","2086","loginTest","Suite","Sun Jul 28 22:58:12 CEST 2024","passed","Sun Jul 28 22:58:14 CEST 2024","nopcommerceTest.LoginPageTest","Test","nopcommerceTest.LoginPageTest","loginTest"
+"","7944","checkouProcessTest","Suite","Sun Jul 28 22:58:20 CEST 2024","passed","Sun Jul 28 22:58:28 CEST 2024","nopcommerceTest.CheckoutPageTest","Test","nopcommerceTest.CheckoutPageTest","checkouProcessTest"
+"","4144","registerPageTest","Suite","Sun Jul 28 22:58:08 CEST 2024","passed","Sun Jul 28 22:58:12 CEST 2024","nopcommerceTest.RegisterPageTest","Test","nopcommerceTest.RegisterPageTest","registerPageTest"

@@ -1,0 +1,6 @@
+nopcommerceTest\ErrorRegisterPageTest.class
+nopcommerceTest\RegisterPageTest.class
+setup\BaseTest.class
+nopcommerceTest\AddItemToCartTest.class
+nopcommerceTest\CheckoutPageTest.class
+nopcommerceTest\LoginPageTest.class
